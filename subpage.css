@@ -2,6 +2,10 @@
 
 /* CSS for Google and IBM page only  */
 
+* {
+    margin: 0;
+}
+
 body {
     margin: 0;
     font-family: "Source Sans Pro", sans-serif;
@@ -79,7 +83,7 @@ body {
 
 .footer {
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 0px;
     columns: #999;
     font-size: .9rem;
 }
